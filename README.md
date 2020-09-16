@@ -1,18 +1,18 @@
 # Superset Public Roadmap
 ## Overview
-We have introduced this public roadmap with [SIP-XX](http://blank.org/), plese see the details for the motivation there. This document describes the parctical aspects of using and contributin to the roadmap.
+We have introduced this public roadmap with [SIP-53](https://github.com/apache/incubator-superset/issues/10894), plese see the details for the motivation there. This document describes the parctical aspects of using and contributing to the roadmap.
 
 ### Target audience
 Anyone who is intersted in knowing how Superset's functionality is being enanced and how it will be changing over time. This includes developers, end users and project sponsors.
 
 ### Disclaimer
-The purpose of this content is to outline the general product direction for SUperset. It is intended for information purposes only, and may not be incorporated into any contract. It is not a commitment to deliver any material, code, or functionality, and should not be relied upon in making purchasing decisions. The development, release, and timing of any features or functionality described for Superset is subject to change witout notice.
+The purpose of this content is to outline the general product direction for Superset. It is intended for information purposes only, and may not be incorporated into any contract. It is not a commitment to deliver any material, code, or functionality, and should not be relied upon in making purchasing decisions. The development, release, and timing of any features or functionality described for Superset is subject to change witout notice.
 
 ## Contributing to the roadmap
 ### Add a new project for consideration
 Anyone from the community can add a new proposed project to the roadmap: (see [How to organize the content in the roadmap](#how-to-organize-the-content-in-the-roadmap) )
-> 1. Create a new issue in the [/superset-roadmap](https://github.com/benceorlai/superset-roadmap) repo using the [Roadmap Epic](https://github.com/benceorlai/superset-roadmap/issues/new/choose) template
-> 1. Add the issue to the [project board](https://github.com/benceorlai/superset-roadmap/projects/1)
+> 1. Create a new issue in the [/superset-roadmap](https://github.com/apache-superset/superset-roadmap) repo using the [Roadmap Epic](https://github.com/apache-superset/superset-roadmap/issues/new/choose) template
+> 1. Add the issue to the [project board](https://https://github.com/apache-superset/superset-roadmap/projects/1)
 > 1. Add it to the "For consideration" column in the board
 > 1. Optionally you may create a SIP or link an existin SIP to the epic
  
