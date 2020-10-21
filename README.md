@@ -12,7 +12,7 @@ The purpose of this content is to outline the general product direction for Supe
 ### Add a new project for consideration
 Anyone from the community can add a new proposed project to the roadmap: (see [How to organize the content in the roadmap](#how-to-organize-the-content-in-the-roadmap) )
 > 1. Create a new issue in the [/superset-roadmap](https://github.com/apache-superset/superset-roadmap) repo using the [Roadmap Epic](https://github.com/apache-superset/superset-roadmap/issues/new/choose) template
-> 1. Add the issue to the [project board](https://https://github.com/apache-superset/superset-roadmap/projects/1)
+> 1. Add the issue to the [project board](https://github.com/apache-superset/superset-roadmap/projects/1)
 > 1. Add it to the "For consideration" column in the board
 > 1. Optionally you may create a SIP or link an existin SIP to the epic
  
